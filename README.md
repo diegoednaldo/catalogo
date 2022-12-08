@@ -4,7 +4,7 @@
 
 https://catalogo-omega.vercel.app/
 
-## Imagens do meu projeto abaixo
+## Imagens do meu projeto abaixo:
 
 <img src="./imagens%20do%20projeto/Captura%20de%20Tela%20(1).png">
 <img src="./imagens%20do%20projeto/Captura%20de%20Tela%20(2).png">
